@@ -42,7 +42,7 @@ To calculate the KPIs displayed on the dashboard, the following DAX measures wer
 * **Profit Margin %:** DIVIDE([Total Profit], [Total Revenue])
 
 ## 📈 Dashboard Insights
-The dashboard, as seen in ![Dashboard Preview](785125.png), provides a comprehensive view of business performance using a professional green/black color theme.
+The dashboard, as seen in the file uploaded, provides a comprehensive view of business performance using a professional green/black color theme.
 
 * **Sales Distribution:** Visualizes performance across different products to identify top contributors.
 * **Revenue Contribution:** A donut chart showcasing the revenue share by product category.
