@@ -22,7 +22,7 @@ This project analyses E-Commerce business performance data, progressing from raw
 | **Power BI** | Data Cleaning, EDA & Basic Statistics |
 | **Power BI** | Data Visualization & Dashboard |
 
-## 🧹 Data Cleaning & Preparation (Excel)
+## 🧹 Data Cleaning & Preparation (Power BI)
 **Objective:** Prepare the raw `ecommerce_sales_data (1).csv` dataset for analysis by resolving data quality issues.
 
 **Tasks Performed:**
@@ -42,7 +42,7 @@ To calculate the KPIs displayed on the dashboard, the following DAX measures wer
 * **Profit Margin %:** DIVIDE([Total Profit], [Total Revenue])
 
 ## 📈 Dashboard Insights
-The dashboard, as seen in the file uploaded, provides a comprehensive view of business performance using a professional green/black color theme.
+The dashboard, as seen in the file uploaded![E-Commerce Sales Performance Dashboard](syntecxhub%20project%20dashboard%201.png) , provides a comprehensive view of business performance using a professional green/black color theme.
 
 * **Sales Distribution:** Visualizes performance across different products to identify top contributors.
 * **Revenue Contribution:** A donut chart showcasing the revenue share by product category.
