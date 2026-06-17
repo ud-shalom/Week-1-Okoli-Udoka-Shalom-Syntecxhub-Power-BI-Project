@@ -1,0 +1,55 @@
+![Dashboard Preview](SYNTECXHUB%20DASHBOARD%20WEEK%202.png)
+
+# 🌐 WEBSITE TRAFFIC ANALYSIS DASHBOARD #WebsiteTrafficAnalysisDashboard
+
+**Created By: Okoli Udoka Shalom** #OkoliUdokaShalom
+
+### 📌 PROJECT OVERVIEW #ProjectOverview
+This project analyzes website traffic data using Power BI to uncover traffic trends, user engagement, and conversion performance. The dashboard provides actionable insights through interactive visualizations and KPI tracking.
+
+### 🧹 DATA CLEANING #DataCleaning
+* **Data Type Validation**: Verified data types for all columns.
+* **Duplicate Removal**: Checked and confirmed no duplicate records.
+* **Null Handling**: Verified that there were no missing values.
+
+### 📊 DAX MEASURES #DAXMeasures
+The following measures were created for analysis:
+
+```dax
+Total Sessions = SUM('Website Traffic'[Sessions])
+
+Total Page Views = SUM('Website Traffic'[Page Views])
+
+Average Bounce Rate = AVERAGE('Website Traffic'[Bounce Rate])
+
+Average Conversion Rate = AVERAGE('Website Traffic'[Conversion Rate])
+
+#DashboardFeatures
+KPI Cards: Includes Sessions, Page Views, Bounce Rate, and Conversion Rate.
+
+Trend Analysis: Sessions Over Time Line Chart.
+
+Channel Insights: Traffic Distribution by Channel Donut Chart.
+
+Performance Table: Traffic Source Engagement Metrics table.
+
+#🔍KeyInsights
+Conversion Performance: Paid Search recorded the highest conversion rate.
+
+Traffic Drivers: Organic Search generated the highest traffic volume.
+
+User Engagement: High session duration pages showed stronger user engagement.
+
+#🛠ToolsUsed
+Power BI
+
+DAX
+
+Data Cleaning
+
+Data Visualization
+
+🎯 OUTCOME #ProjectOutcome
+The dashboard helps stakeholders monitor website performance, analyze traffic sources, and make data-driven decisions.
+
+#PowerBI #DataAnalytics #WebsiteTraffic #DataVisualization #BusinessIntelligence #SyntechxHub
